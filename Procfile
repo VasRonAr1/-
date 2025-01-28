@@ -1,0 +1,1 @@
+worker: python Isar.py
